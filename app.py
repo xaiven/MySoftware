@@ -1,1 +1,5 @@
-print("Hello from MySoftware")
+def click():
+    print("Click")
+
+def welcome():
+    print("New Screen")
